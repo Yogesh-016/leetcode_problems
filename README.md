@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Yogesh-016/leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Yogesh-016/leetcode/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/Yogesh-016/leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Yogesh-016/leetcode/tree/master/0412-fizz-buzz) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Yogesh-016/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -42,9 +43,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Yogesh-016/leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Yogesh-016/leetcode/tree/master/0189-rotate-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yogesh-016/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Yogesh-016/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Yogesh-016/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
