@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Yogesh-016/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Yogesh-016/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Yogesh-016/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Yogesh-016/leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Yogesh-016/leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Yogesh-016/leetcode/tree/master/0412-fizz-buzz) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Yogesh-016/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -92,4 +93,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Yogesh-016/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Yogesh-016/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Yogesh-016/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
