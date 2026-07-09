@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Yogesh-016/leetcode/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/Yogesh-016/leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Yogesh-016/leetcode/tree/master/0412-fizz-buzz) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Yogesh-016/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Yogesh-016/leetcode/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Yogesh-016/leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
