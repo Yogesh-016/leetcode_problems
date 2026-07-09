@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Yogesh-016/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Yogesh-016/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Yogesh-016/leetcode/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/Yogesh-016/leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Yogesh-016/leetcode/tree/master/0412-fizz-buzz) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Yogesh-016/leetcode/tree/master/0069-sqrtx) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Yogesh-016/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
