@@ -118,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Yogesh-016/leetcode/tree/master/2413-smallest-even-multiple) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Yogesh-016/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
