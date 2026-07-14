@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Yogesh-016/leetcode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Yogesh-016/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Yogesh-016/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yogesh-016/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Yogesh-016/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -127,10 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Yogesh-016/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yogesh-016/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Yogesh-016/leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Yogesh-016/leetcode/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/Yogesh-016/leetcode/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
