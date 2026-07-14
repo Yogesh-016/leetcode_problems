@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Yogesh-016/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Yogesh-016/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Yogesh-016/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Yogesh-016/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Yogesh-016/leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Yogesh-016/leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Yogesh-016/leetcode/tree/master/0412-fizz-buzz) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yogesh-016/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Yogesh-016/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Yogesh-016/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Yogesh-016/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yogesh-016/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Yogesh-016/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Yogesh-016/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Yogesh-016/leetcode/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/Yogesh-016/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Database
 |  |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yogesh-016/leetcode/tree/master/0002-add-two-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yogesh-016/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
