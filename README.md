@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Yogesh-016/leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Yogesh-016/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Yogesh-016/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Yogesh-016/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Yogesh-016/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Yogesh-016/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Yogesh-016/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yogesh-016/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Yogesh-016/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Yogesh-016/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Yogesh-016/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yogesh-016/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Yogesh-016/leetcode/tree/master/0217-contains-duplicate) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Yogesh-016/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Yogesh-016/leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yogesh-016/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Yogesh-016/leetcode/tree/master/0912-sort-an-array) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yogesh-016/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Yogesh-016/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Yogesh-016/leetcode/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/Yogesh-016/leetcode/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Yogesh-016/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Yogesh-016/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yogesh-016/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Yogesh-016/leetcode/tree/master/0912-sort-an-array) |
