@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Yogesh-016/leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Yogesh-016/leetcode/tree/master/0412-fizz-buzz) |
 | [2413-smallest-even-multiple](https://github.com/Yogesh-016/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Yogesh-016/leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Yogesh-016/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Brainteaser
 |  |
