@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Yogesh-016/leetcode/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Yogesh-016/leetcode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Yogesh-016/leetcode/tree/master/0595-big-countries) |
+| [0627-swap-sex-of-employees](https://github.com/Yogesh-016/leetcode/tree/master/0627-swap-sex-of-employees) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
