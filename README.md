@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Yogesh-016/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Yogesh-016/leetcode/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/Yogesh-016/leetcode/tree/master/1527-patients-with-a-condition) |
+| [1890-the-latest-login-in-2020](https://github.com/Yogesh-016/leetcode/tree/master/1890-the-latest-login-in-2020) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
