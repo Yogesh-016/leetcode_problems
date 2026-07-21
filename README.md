@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Yogesh-016/leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Yogesh-016/leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Yogesh-016/leetcode/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/Yogesh-016/leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Yogesh-016/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/Yogesh-016/leetcode/tree/master/1148-article-views-i) |
 ## Heap (Priority Queue)
